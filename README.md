@@ -1,10 +1,10 @@
 # this is ali eris frontpage(WIP)
 
-- 👋 Hi, this is @AliERIS
-- 👀 I’m interested in nothing at all
-- 🌱 I’m currently learning nothing at all
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ... better do not reach me for your sanity
+* 👋 Hi, this is @AliERIS
+* 👀 I’m interested in nothing at all
+* 🌱 I’m currently learning nothing at all
+* 💞️ I’m looking to collaborate on nothing
+* 📫 How to reach me ... better do not reach me for your sanity
 
 
 <!---
