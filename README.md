@@ -1,11 +1,11 @@
 # this is ali eris frontpage(RIP)
 
-     /\          |
-    /  \         |        |
-   /    \        |
-  /______\       |        |
- /        \      |        |
-/          \     |___     |
+          /\          |
+         /  \         |        |
+        /    \        |
+       /______\       |        |
+      /        \      |        |
+     /          \     |___     |
 - now you are looking here it'll pass
 
 <!---
