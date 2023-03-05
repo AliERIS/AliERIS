@@ -1,4 +1,4 @@
-# this is ali eris frontpage(RIP)
+# i hate you, myself and them
 
           /\          |
          /  \         |        |
