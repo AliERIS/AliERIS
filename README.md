@@ -29,11 +29,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alieris&theme=default" alt="GitHub Streak Stats" />
 </div>
 
-<div align="center">
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=alieris&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
 ---
 
 <p align="center">
